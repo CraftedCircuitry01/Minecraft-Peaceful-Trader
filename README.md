@@ -5,7 +5,7 @@ Note: Not Updated to the latest Minecraft Version
 ***
 This is an old Minecraft Datapack I regularly use on my singleplayer Minecraft worlds. This adds vanilla functionality that you normally don't see in Peaceful mode.
 ***
-To learn about the commands, type this command to obtain the list of commands
+To learn about the commands, type this to obtain the list of commands available via this Datapack
 ```
 /trigger ccPTHelp
 ```
